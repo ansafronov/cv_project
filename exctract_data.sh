@@ -1,0 +1,1 @@
+unzip raw_data/cv_imgs.zip -d data
